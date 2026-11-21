@@ -1,0 +1,16 @@
+# Directories
+.venv/
+# Data directory is too large to commit
+data/ 
+
+# Files
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pywz
+*.pyzw
+*.pyzwz
+*.pyzwzw
+*.pyzwzwzw
